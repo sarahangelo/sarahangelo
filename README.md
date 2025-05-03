@@ -1,5 +1,5 @@
 ## Hi, I'm Sarah 👋
-
+I'm learning to program.
 <!--
 **sarahangelo/sarahangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
